@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/fivie/static/css/main.03fb6801.chunk.css",
+    "main.js": "/fivie/static/js/main.7888c2df.chunk.js",
+    "main.js.map": "/fivie/static/js/main.7888c2df.chunk.js.map",
+    "runtime~main.js": "/fivie/static/js/runtime~main.901bfddb.js",
+    "runtime~main.js.map": "/fivie/static/js/runtime~main.901bfddb.js.map",
+    "static/js/2.3b397183.chunk.js": "/fivie/static/js/2.3b397183.chunk.js",
+    "static/js/2.3b397183.chunk.js.map": "/fivie/static/js/2.3b397183.chunk.js.map",
+    "index.html": "/fivie/index.html",
+    "precache-manifest.b2a69f27d478cb675542d199409b0842.js": "/fivie/precache-manifest.b2a69f27d478cb675542d199409b0842.js",
+    "service-worker.js": "/fivie/service-worker.js",
+    "static/css/main.03fb6801.chunk.css.map": "/fivie/static/css/main.03fb6801.chunk.css.map",
+    "static/media/App.css": "/fivie/static/media/SFProText-Regular.85bd46c1.ttf",
+    "static/media/bg1.png": "/fivie/static/media/bg1.9c11e409.png",
+    "static/media/bg2.png": "/fivie/static/media/bg2.de132a92.png",
+    "static/media/bg3.png": "/fivie/static/media/bg3.7fbaf307.png",
+    "static/media/bg4.png": "/fivie/static/media/bg4.5fc62e5a.png"
+  }
+}
