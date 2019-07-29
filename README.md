@@ -1,5 +1,5 @@
 # Fivie
-A single page application collaborated with a designer
+A single page movie application collaborated with a designer
 
 ## [View demo](https://holahoon.github.io/fivie/)
 
