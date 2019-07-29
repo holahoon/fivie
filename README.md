@@ -1,5 +1,23 @@
 # Fivie
+## A single page application collaborated with a designer
 
-## A single page application collaborated with a designer using React.js library
-### Just one page movie application. Fetching data from ThemovieDB.org api using Axios.
-### This application is not yet 100% completed. Still has mobile version coming.
+## [View demo](https://holahoon.github.io/fivie/)
+
+## Project Overview
+* This was the first project to make using React and fetching data from database
+* Learned how to fetch data using lifecycle method such as componentDidMount and storing them in the Class Component's local state
+
+## What was used
+* Used Axios used to to fetch data from [theMovieDP API](https://developers.themoviedb.org/3/getting-started/introduction)
+* Moment.js was used to convert time format into a format that is readable.
+
+## How to use
+* Select different categories to view top 5 movies of the selected category
+* Search for any movie on the search bar
+* When clicking on the movie, it shows the details of the selected movie along with preview trailer
+
+## Upcoming
+* Mobile Responsive
+
+### Collaboration
+with - Jin Kyu Kang (designer)
